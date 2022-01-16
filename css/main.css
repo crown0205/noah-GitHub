@@ -209,6 +209,7 @@ header .sub-menu li a {
 header .sub-menu li a:hover {
     color: #4078c0;
 }
+
 #toggle-btn {
     display: none;
     background: url("../img/toggle-btn.svg");
@@ -374,12 +375,12 @@ header .sub-menu li a:hover {
 }
 
 /* WHERE IS */
-.section-where-is {
+.section-where-is {}
 
-}
 .section-where-is .inner {
     padding-top: 80px;
 }
+
 #map {
     width: 100%;
     height: 400px;
@@ -394,25 +395,30 @@ header .sub-menu li a:hover {
 .section--pricing {
     background: linear-gradient(#f5f5f5, #fff);
 }
+
 .section--pricing .inner {
     padding: 80px 0;
 }
+
 .section--pricing .card {
     display: flex;
     border: 1px solid #e5e5e5;
     border-radius: 6px;
     box-sizing: border-box;
 }
+
 .section--pricing .card .cell {
     padding: 24px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 .section--pricing .card .cell1 .btn {
     height: 50px;
     font-size: 16px;
 }
+
 .section--pricing .card .cell2 {
     font-size: 22px;
     font-weight: 300;
@@ -422,24 +428,27 @@ header .sub-menu li a:hover {
 }
 
 /* FOOTER */
-footer {
+footer {}
 
-}
 footer .inner {
-    padding: 50px 0; 
+    padding: 50px 0;
     border-top: 1px solid #eee;
 }
+
 footer .site-links {
     display: flex;
 }
+
 footer .site-links li {
     font-size: 12px;
     margin-right: 10px;
     color: #767676;
 }
+
 footer .site-links li a {
     color: #4078c0;
-} 
+}
+
 footer .site-links li a:hover {
     text-decoration: underline;
 }
@@ -454,7 +463,7 @@ footer .logo {
     width: 24px;
     height: 24px;
 }
+
 footer .logo:hover svg {
     fill: #4078c0;
 }
-

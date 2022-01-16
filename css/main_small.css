@@ -2,6 +2,7 @@
 .summary__title {
     font-size: 34px !important;
 }
+
 .summary__description {
     font-size: 22px;
 }
@@ -12,6 +13,7 @@
     border-right: none;
     border-bottom: 1px solid #e5e5e5;
 }
+
 .section--feature .tiles li:last-child {
     border-bottom: none;
 }
@@ -28,6 +30,7 @@
 .section--pricing .card {
     display: block;
 }
+
 .section--pricing .card .cell2 {
     border-left: none;
     border-top: 1px solid #e5e5e5;
@@ -40,9 +43,11 @@ footer .site-links {
     display: block;
     text-align: center;
 }
+
 footer .site-links:first-child {
     margin-bottom: 20px;
 }
+
 footer .site-links li {
     display: inline;
 }
