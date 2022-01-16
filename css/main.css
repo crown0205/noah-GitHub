@@ -560,3 +560,11 @@ footer .logo:hover svg {
         padding: 14px 30% 24px;
     }
 }
+
+
+    /* WHERE IS */
+    .section-where-is .inner {
+        max-width: none;
+        padding: 80px 20px 0 20px;
+    }
+
